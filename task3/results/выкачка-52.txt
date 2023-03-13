@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <h1 class="zone-name-title h1">
+            <img class="heading-favicon" src="/favicon.ico" alt="Icon for vseinstrumenti.ru"
+                 onerror="this.onerror=null;this.parentNode.removeChild(this)">
+            vseinstrumenti.ru
+        </h1>
+        <h2 class="h2" id="challenge-running">
+            Checking if the site connection is secure
+        </h2>
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=79ce22584f733a71')"></div>
+        <div id="challenge-body-text" class="core-msg spacer">
+            vseinstrumenti.ru needs to review the security of your connection before proceeding.
+        </div>
+        <form id="challenge-form" action="/?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.9%3B+rv%3A45.0%29+Gecko%2F20100101+Firefox%2F45.0&amp;__cf_chl_f_tk=o8uKFbt.kFEexD5yGDFhVFXWWLAWOrToC93NsaINWFY-1676968375-0-gaNycGzNB-U" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="hEvgrK5RCQSyLJSXJrGl7bigbEt0FFSWpCj8hSNhg.c-1676968375-0-ASrWICjCQQ3KBSOAjL2EiWM8_jzmOyqiMgAym7myOSAVcBoDCWhnltv5N993XSt0ZWlUXFr0TD2EDrZ0XPKc2frlbCEDt-Ty3mrFAFimREE45v_H28HGNENcXFMnmcErZuahF1epi6pA93-2dYkot7E5PKnvn-Iyj9t2krFsjPNrgVwljOE2aWzuRlxB9BjhyhajNDwuNFUklxBVe4GF6P1nv2Rn37zz_q5GbAojGcjerctV1u_6dVB3nsxuQJovzKbqZ9j37Gvl6IcZk8CXbXd2ZQ8QqMEiuzDfEhdSug1GpTLYQ_9sr85oZzUZZl1D82QKwGzY4ufv3q5aOy7VvtFiMLlOrUEE2XlyY2XI8qYc4sva6ZiAQ6VSOmBYG6U0UWflj0rTWkj-74ugRGCuQgzxZo7EYnzGZ3bDLbCWi18fN9vTk_FdIL-_PNoEX4JTSKpQsAtXXQ69VjbmnV5WiN81qztlG0JddGmhxvvUt2AMB6oSyC2y46wh4FMnke-rT5Pibg52Dl1GWP4gjpwo8GsgNBLhT4hfyaN_GXqHupSL3BBpH8t92yUxK3aOR-Q3ejl56gfxTbir7Z2w72nLI__3ElqkNBm4G-Y99KSG7dMu1mAORf-13WuFzF_xLCpn19-eDgxvhsD25BoR9odcOaHN-NYiw9prxVvSIPobGH51Mx3Lcscsozlx6pB6aUTrTxzKvGt6U56OFOXzcBjqryFsJnxpm8TF414Bftpp9WKkw9GjvmfUpbyEbX8A512Ls5CimK3SSxanOjM5s940QNPePbhFSnkojibZzMD5kHtUqk3VZmstA8iJc7m4KoIuxWzZL9YagotwsUMJ8hhT7josyD0RIqZD3inn_SFg32etmI2vcPoFeSjzPayw6yo1WyLk3WKVemqlTd2nVpaHKgsHZpTX3t5bzEQIsaNyUPnwEQ_bFoYN9Z4eiuvniPqaOkygXdZnrVr5l6qVOxuwB3C5GLBFX4YK8VkBrS5gIrsS7WN8IiJVHtqDOzRI1CiGVrC7_9tvHttiFvgvk2obHM29oIQA6o5Z2po2tsKA_W4gqqcpOQZpaBEcQmBmtYCVAKRlmokmLGNGMnr0hIdoZr2rECBq_ElbfWESJL9RZVS8kTeJxESfkHOBi2pmx9fK6aCRFY6nSK1VvSR8gS7oJpOSiEj8D7JFOPHz6GX8XlJSJ2O18IxNA3fRJB2Av1_ksnh_LJlFQwahSaAm9fxWasDvJJjayRV0VjgjD_6Pladnl2F3lyLyrzyxTO2LkeDJrPHMHzmHroDm6tdJ1voUOTIvesSxepbYoPjd4pZZC09U5tDS0sovvYX8PqyBV1eLuK6lJHuI_pgFCeAgvllyKVJ_-FVi2X9lBFX5jlGDzE1GglaVJyae0DBIxT8NCLOvGAu06M_8Lt7EUH5O3EzEHryU4znKiEd2rXMGvTBwbCRDpworRFRXS7Z358ZIAo_Ks60NSB54MZuqdTn6KotHmWITxzpTWiX2_Z9QkJTPfDR5ZhrWmkRilP8TlkPKj7K2TNndoZfYKEwu49bS2LlPaoFzHotb4CQapsKx36kMne21ucNUr9A5A6Ubf3PJ_-cB6pqYdM5X6SMK3WQ1sD5h1Zb-GcuVvPiBirktpx4EW3Zmcd2vc7Ybk52BGi3Ro38bsCLYqBm9BT4yjYVqsNZQnzawJYWF9HZf6Cy3gl59WGiOydoFl951ZQUMCQktwGrNX4BVWak4ONLMxLBCnseYQCb92OqqyjtzVH80imZzdbMZLvjGVeXtYPYAFULI6LUrnGdMTJqYI-P3hNWKxyywBLZf68AcTRCo412pSlUhlHMCI4NqFzSAdewFEno2QjQMKxGhPObmHyszjsCp_rNdgBFh75b5uiNFiEiM8oxhisVD-OMORMGLqaXBdzQGbdQXbDXKfzGkqqLRm1qCC2Zzw75Z_eFzuXyorYgL8vZZDaeq">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cZone: 'vseinstrumenti.ru',
+            cType: 'managed',
+            cNounce: '92628',
+            cRay: '79ce22584f733a71',
+            cHash: 'cac70060d2d13f5',
+            cUPMDTk: "\/?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.9%3B+rv%3A45.0%29+Gecko%2F20100101+Firefox%2F45.0&__cf_chl_tk=o8uKFbt.kFEexD5yGDFhVFXWWLAWOrToC93NsaINWFY-1676968375-0-gaNycGzNB-U",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cMTimeMs: '0',
+            cTplV: 4,
+            cTplB: 'cf',
+            cRq: {
+                ru: 'aHR0cHM6Ly92c2VpbnN0cnVtZW50aS5ydS8/VXNlci1BZ2VudD1Nb3ppbGxhJTJGNS4wKyUyOE1hY2ludG9zaCUzQitJbnRlbCtNYWMrT1MrWCsxMC45JTNCK3J2JTNBNDUuMCUyOStHZWNrbyUyRjIwMTAwMTAxK0ZpcmVmb3glMkY0NS4w',
+                ra: 'cHl0aG9uLXJlcXVlc3RzLzIuMjguMg==',
+                rm: 'R0VU',
+                d: '4LH/Aa4ZaAhu6x1TH9lCRn/61yjAd7nJcqzZ11rvzeIHNp8KiYdfe8zB4HYdoak5SjeiEMHVzKChnIOJ3wkqbeRmI2e07KEVmQCsEEioLLY8SJo0Q3+PJph1tEUnENum0iKZD+GasIzG+80GhN6QnvUcAAIBnpsFANBGjAeaDzIU4D35AUoD9ECW9ZashXETChJcyP82d1LplIy1cAF5+5bfmGt+V0BtCP6sEtLgC9JpggD6xiZrQ1Dj388tx+wa1Kud8YEZBwVGR16Huk3d2XrPZ14c82GMK+hkd/TjTndKW7W18jh7IOSeSKZIaM3z5P90IDlTLeAj4MHGZ0Twd9On5Klbx/5bjN5cB65/Y1/nFHOm1jsYBJKUpa6XGO1Ao1fsb+SthprQ/WlLbaXsugC/2pcgMFndU/mioQ/CBQSO8vY73XGPLTQbS8LUFrjv0dpM1XdBPM2ELd5rUHnVh3CElo+YFq7PFNXzPyiKE31CI0v8Z2cpfIXs/6NbVhehCECFmXIM36CHXA1vrpsk2eJgPX15n0pxfK/ibD1zqEhWGYl8m3mgerMF7urDYb2rEVEKLMxa2zvY5lTU+SybNfOzv13zKWdld8r6Tsr8RNyXmgrtUrLoQaPS1CZBTC0bGf8/q8ZJJUpGFgKzyWAe0StLDKUOHDF7pzQhJ0mDEzxF21oseOlOajIzT/pzIPd1jdT5PGr2YwJ8zE+IHz1ALqaJxSsNefjZ4q+O85gmjIZyjsW+XVls+eAoDPGCK9LP',
+                t: 'MTY3Njk2ODM3NS4wODUwMDA=',
+                m: '86zpafRQx3sAeSS5JIm3lOnN+GmYGSEckdOxeu+7Hyo=',
+                i1: 'c6w4sPBi9FiWCRSQjGvPhQ==',
+                i2: 'DRbOG5mu/0uChF/zzKMZIw==',
+                zh: 'ii/2WDdRZKVg4JcFqLKAddIht7KCiERS9jsaUHRlQ6U=',
+                uh: 'neMFmDCz0LRc0/Wea+5x0IhJieHbzcQVSkMgFkgnrjc=',
+                hh: 'k+XGeWhGlj8S7LcbBPv+dXiyQc5713GYcqETnXqnW2o=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=79ce22584f733a71');
+        trkjs.setAttribute('alt', '');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=79ce22584f733a71';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10.9%3B+rv%3A45.0%29+Gecko%2F20100101+Firefox%2F45.0&__cf_chl_rt_tk=o8uKFbt.kFEexD5yGDFhVFXWWLAWOrToC93NsaINWFY-1676968375-0-gaNycGzNB-U" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+    <div class="footer" role="contentinfo">
+        <div class="footer-inner">
+            <div class="clearfix diagnostic-wrapper">
+                <div class="ray-id">Ray ID: <code>79ce22584f733a71</code></div>
+            </div>
+            <div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&utm_campaign=m" target="_blank">Cloudflare</a></div>
+        </div>
+    </div>
+</body>
+</html>
